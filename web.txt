@@ -1,0 +1,7 @@
+How does the internet work?
+
+    The web is an extremely complex place. The internet is one giant network that is made up of a multitude of smaller networks. The internet provides a platform for the web. Allowing these networks to store information for public viewing. 
+
+What happens when you click a link? 
+
+    When you click a link in a browser or on a webpage, it has a URL associatted with it. The URL is tied to a IP address which is located in a DNS Server. If you have visited the website before, the cache on your computer is able to pull the IP from your cache so it does not have to search through the DNS to find the IP. Once it has found the IP it begins sending requests to the server for information that it needs. The information is sent from the server to your local machine in several packets. Once the packets arrive back at your browser, it compiles the packets back into a viewable webpage. It begins loading the HTML and the CSS, and then finishes off loading the JavaScript to add the functionality to the website. 
